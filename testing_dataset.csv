@@ -1,0 +1,11 @@
+Brand,Model,FuelType,Transmission,AgeYears,KilometersDriven,NumServices,DrivingBehavior,AnnualMaintenanceCostINR
+Renault,Kwid,Petrol,Manual,4,35000,3,Careful,7000
+Tata,Altroz,Diesel,Manual,5,60000,6,Aggressive,14000
+Hyundai,Venue,Petrol,Automatic,3,42000,4,Moderate,11000
+Kia,Sonet,Diesel,Automatic,2,25000,2,Careful,8500
+Toyota,Urban Cruiser,Petrol,Manual,6,80000,7,Aggressive,16000
+Maruti,Ertiga,CNG,Manual,5,90000,6,Moderate,13000
+Mahindra,Thar,Diesel,Manual,3,50000,3,Aggressive,15500
+Honda,Amaze,Petrol,Automatic,7,100000,7,Moderate,17000
+Volkswagen,Polo,Petrol,Manual,6,75000,6,Careful,12000
+Nissan,Magnite,Petrol,Manual,2,20000,2,Careful,7000

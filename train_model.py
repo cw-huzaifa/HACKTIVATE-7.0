@@ -11,9 +11,6 @@ X = df.drop("AnnualMaintenanceCostINR", axis=1)
 y = df["AnnualMaintenanceCostINR"]
 
 
-
-
-
 categorical_cols = X.select_dtypes(include="object").columns.tolist()
 preprocessor = ColumnTransformer([
     ("cat", OneHotEncoder(handle_unknown="ignore"), categorical_cols)
